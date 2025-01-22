@@ -1,2 +1,2 @@
-# All-IN-ONE-style
-all styles for comfyui
+# AIO-Style-Prompts
+Various style options to add to prompts.
